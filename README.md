@@ -10,13 +10,13 @@ The project involves:
 3. Training models with different algorithms and and predicting the output variable.
 
 Machine Learning algorithms used:
-Logistic Regression
-Naive Bayes
-Support Vector Machine (Linear)
-K-Nearest Neighbors
-Decision Tree 
-Random Forest 
-XGBoost 
+Logistic Regression,
+Naive Bayes,
+Support Vector Machine (Linear),
+K-Nearest Neighbors,
+Decision Tree,
+Random Forest,
+XGBoost.
 
 Highest Accuracy achieved: 85% (Random Forest)
 
