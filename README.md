@@ -9,7 +9,9 @@ The project involves:
 2. Applying feature engineering to the input variables.
 3. Training models with different algorithms and and predicting the output variable.
 
-Machine Learning algorithms used:
+Dataset : From Kaggle https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+Machine Learning Algorithms:
 Logistic Regression,
 Naive Bayes,
 Support Vector Machine (Linear),
